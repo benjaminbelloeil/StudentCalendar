@@ -66,17 +66,17 @@ The StudentCalendar app is a Swift-based iOS application designed to help studen
 3. Update your profile information and save changes.
 
 ## Project Structure
-StudentCalendar/
-├── `StudentCalendarApp.swift`  # App entry point
-├── `Home.swift`                # Main screen displaying the class schedule
-├── `AddTaskView.swift`         # View for adding and editing tasks
-├── `Task.swift`                # Task model defining the structure of a class
-├── `TaskViewModel.swift`       # ViewModel handling the business logic
-├── `StudentProfile.swift`      # Profile screen displaying user information
-├── `EditProfileView.swift`     # View for editing the user's profile information
-├── `ImagePicker.swift`         # Utility for picking a profile image
-├── `ContentView.swift`         # Tab view containing Home and Profile tabs
-└── `Assets.xcassets`           # Image and color assets used in the app
+- **StudentCalendar/**
+  - `StudentCalendarApp.swift` - App entry point
+  - `Home.swift` - Main screen displaying the class schedule
+  - `AddTaskView.swift` - View for adding and editing tasks
+  - `Task.swift` - Task model defining the structure of a class
+  - `TaskViewModel.swift` - ViewModel handling the business logic
+  - `StudentProfile.swift` - Profile screen displaying user information
+  - `EditProfileView.swift` - View for editing the user's profile information
+  - `ImagePicker.swift` - Utility for picking a profile image
+  - `ContentView.swift` - Tab view containing Home and Profile tabs
+  - `Assets.xcassets` - Image and color assets used in the app
 
 ## Dependencies
 
