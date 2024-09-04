@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct StudentCalendarApp: App {
+    @StateObject var taskModel: TaskViewModel = TaskViewModel()
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(taskModel) // Pass the task model to all child views
         }
     }
 }
