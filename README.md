@@ -4,7 +4,12 @@
 
 The StudentCalendar app is a Swift-based iOS application designed to help students manage their class schedules efficiently. The app allows users to add, edit, and delete classes while viewing their schedules in a clean and intuitive interface. Additionally, the app includes a profile management feature where students can update their personal information.
 
-## Features
+## Preview
+<img width="497" alt="Screenshot 2024-09-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/c3f31b0b-79c6-492f-a33c-08489146fe8f">
+<img width="497" alt="Screenshot 2024-09-03 at 6 35 42 PM" src="https://github.com/user-attachments/assets/5cadcbaa-b0fa-4fbf-910c-c4ecf68d1cf1">
+<img width="497" alt="Screenshot 2024-09-03 at 6 35 48 PM" src="https://github.com/user-attachments/assets/00d94461-f26b-473b-b8ec-66d76946529f">
+<img width="497" alt="Screenshot 2024-09-03 at 6 35 54 PM" src="https://github.com/user-attachments/assets/2bf2763e-474f-495b-be53-252e80b10e02">
+
 
 ### Home Screen
 
